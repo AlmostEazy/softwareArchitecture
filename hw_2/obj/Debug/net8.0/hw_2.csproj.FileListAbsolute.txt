@@ -1,0 +1,15 @@
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.AssemblyInfoInputs.cache
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.AssemblyInfo.cs
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.csproj.CoreCompileInputs.cache
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.sourcelink.json
+E:\Projects\study_GB\softwareArchitecture\hw_2\bin\Debug\net8.0\hw_2.exe
+E:\Projects\study_GB\softwareArchitecture\hw_2\bin\Debug\net8.0\hw_2.deps.json
+E:\Projects\study_GB\softwareArchitecture\hw_2\bin\Debug\net8.0\hw_2.runtimeconfig.json
+E:\Projects\study_GB\softwareArchitecture\hw_2\bin\Debug\net8.0\hw_2.dll
+E:\Projects\study_GB\softwareArchitecture\hw_2\bin\Debug\net8.0\hw_2.pdb
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.dll
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\refint\hw_2.dll
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.pdb
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\hw_2.genruntimeconfig.cache
+E:\Projects\study_GB\softwareArchitecture\hw_2\obj\Debug\net8.0\ref\hw_2.dll
