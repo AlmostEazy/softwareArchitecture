@@ -1,0 +1,15 @@
+E:\Projects\study_GB\softwareArchitecture\hw_3\bin\Debug\net8.0\hw_3.exe
+E:\Projects\study_GB\softwareArchitecture\hw_3\bin\Debug\net8.0\hw_3.deps.json
+E:\Projects\study_GB\softwareArchitecture\hw_3\bin\Debug\net8.0\hw_3.runtimeconfig.json
+E:\Projects\study_GB\softwareArchitecture\hw_3\bin\Debug\net8.0\hw_3.dll
+E:\Projects\study_GB\softwareArchitecture\hw_3\bin\Debug\net8.0\hw_3.pdb
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.AssemblyInfoInputs.cache
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.AssemblyInfo.cs
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.csproj.CoreCompileInputs.cache
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.sourcelink.json
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.dll
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\refint\hw_3.dll
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.pdb
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\hw_3.genruntimeconfig.cache
+E:\Projects\study_GB\softwareArchitecture\hw_3\obj\Debug\net8.0\ref\hw_3.dll
