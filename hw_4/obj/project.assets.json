@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\study_GB\\softwareArchitecture\\hw_1\\hw_1.csproj",
-      "projectName": "hw_1",
-      "projectPath": "E:\\Projects\\study_GB\\softwareArchitecture\\hw_1\\hw_1.csproj",
+      "projectUniqueName": "E:\\Projects\\study_GB\\softwareArchitecture\\hw_4\\hw_4.csproj",
+      "projectName": "hw_4",
+      "projectPath": "E:\\Projects\\study_GB\\softwareArchitecture\\hw_4\\hw_4.csproj",
       "packagesPath": "C:\\Users\\Antos\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\study_GB\\softwareArchitecture\\hw_1\\obj\\",
+      "outputPath": "E:\\Projects\\study_GB\\softwareArchitecture\\hw_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Antos\\AppData\\Roaming\\NuGet\\NuGet.Config"
