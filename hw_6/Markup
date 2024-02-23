@@ -1,0 +1,124 @@
+
+Staff {
+	id integer pk increments
+	name varchar
+	phone integer
+}
+
+Patient {
+	id integer pk increments
+	name varchar
+	phone integer
+	address varchar
+}
+
+Insurance_policy {
+	id integer pk increments
+	patient_id integer > Patient.id
+	insurance_policy_num integer
+	epire_from datetime
+	expire_to datetime
+	insurance_company varchar
+}
+
+Reg_journal {
+	id integer pk increments
+	medical_card_id integer > Medical_card.id
+	departament_id integer >* Department.id
+	insurance_policy integer > Insurance_policy.id
+	medical_card integer > Medical_card.id
+	reg_date datetime
+	exit_date datetime > Discharge_journal.discharge_date
+}
+
+Reception {
+	id integer pk increments
+	reg_journal_id integer > Reg_journal.id
+	staff_id integer > Staff.id
+}
+
+Discharge_journal {
+	id integer pk increments
+	staff_id integer > Staff.id
+	medical_card_id integer > Medical_card.id
+	hospital_id integer > Hospital.id
+	ambulatory_id integer > Ambulatory.id
+	discharge_date datetime
+}
+
+Medical_card {
+	id integer pk increments
+	patient_id integer > Patient.id
+	medical_card_num integer
+	analysis_id integer >* Analysis.id
+	desease_id integer >* Desease.id
+	diagnosis_id integer >* Diagnosis.id
+	insurance_policy_id integer > Insurance_policy.id
+	card_reg_date datetime
+}
+
+Department {
+	id integer pk increments
+	department_name varchar
+	room_id integer > Room.id
+	doctor_id integer > Doctor.id
+	shedule_id integer > Schedule.id
+}
+
+Schedule {
+	id integer pk increments
+	work_time date
+	room_id integer > Room.id
+}
+
+Recipe_journal {
+	id integer pk increments
+	medical_card_id integer > Medical_card.id
+	departament_id integer >* Department.id
+	reg_date datetime
+	analysis_id integer >* Analysis.id
+	desease_id integer >* Desease.id
+	diagnosis_id integer >* Diagnosis.id
+}
+
+Diagnosis {
+	id integer pk increments
+	ICD10_code varchar
+}
+
+Desease {
+	id integer pk increments
+	ICD10_code varchar
+	description varchar
+	prognose varchar
+}
+
+Analysis {
+	id integer pk increments
+	room integer
+	appointment_date date
+}
+
+Doctor {
+	id integer pk increments
+	name varchar
+	email varchar
+	phone integer
+}
+
+Room {
+	id integer pk increments
+	capacity integer
+	description varchar
+}
+
+Hospital {
+	id integer pk increments
+	room integer > Room.id
+	reg_date datetime
+}
+
+Ambulatory {
+	id integer pk increments
+	reg_date datetime
+}
